@@ -3,7 +3,7 @@
 
 ## бзе спорта нет духа, без духа зачем тело
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </div>
 <!--
 **GRMarkVL/GRMarkVL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
